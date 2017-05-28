@@ -8,7 +8,7 @@ def lcfold(data, period, transit_mid_point):
 		data should be an array, in the case for which the function was written for data is a two column matrix from a fits file imported by astropy.
 		It goes with out saying hopefully that
 			` time = data[0] `
-		But you know know.
+		But you now know.
 		Parameters
 		----------
 			data => array, time = data[0]
